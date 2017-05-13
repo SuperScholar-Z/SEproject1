@@ -5,7 +5,7 @@
 
 #define PI	3.14159265
 #define LEFT	150	//矩形区域左边界
-#define TOP		50	//矩形区域上边界
+#define TOP	50	//矩形区域上边界
 #define RIGHT	650	//矩形区域右边界
 #define BOTTOM	550	//矩形区域下边界
 
